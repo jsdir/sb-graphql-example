@@ -1,0 +1,9 @@
+{
+  "extends": "react-app",
+  "rules": {
+    "flowtype-errors/show-errors": 2
+  },
+  "plugins": [
+    "flowtype-errors"
+  ]
+}
